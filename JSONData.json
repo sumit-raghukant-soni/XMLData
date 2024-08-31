@@ -1,0 +1,9 @@
+{
+  "students":[
+    {"Name" : "Sumit", "Roll" : 63, "City" : "Ahmedabad"},
+    {"Name" : "Raj", "Roll" : 23, "City" : "valsad"},
+    {"Name" : "Ravi", "Roll" : 43, "City" : "Baroda"},
+    {"Name" : "Ram", "Roll" : 53, "City" : "Jamnagar"},
+    {"Name" : "Raghav", "Roll" : 73, "City" : "Surat"}
+  ]
+}
