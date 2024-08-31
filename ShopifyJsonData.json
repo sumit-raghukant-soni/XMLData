@@ -1,5 +1,88 @@
 {
-  "products":[
-    "product": { "id": "gid://shopify/Product/1346443542550", "title": "White T-shirt", "options": [{ "name": "Size", "values": ["M", "L"] }] },
+  "products": [
+    {
+      "id": 123456789,
+      "title": "Sample Product 1",
+      "body_html": "<strong>Good product!</strong>",
+      "vendor": "Vendor A",
+      "product_type": "Type A",
+      "created_at": "2024-08-01T00:00:00-00:00",
+      "handle": "sample-product-1",
+      "updated_at": "2024-08-01T00:00:00-00:00",
+      "published_at": "2024-08-01T00:00:00-00:00",
+      "variants": [
+        {
+          "id": 987654321,
+          "product_id": 123456789,
+          "title": "Default Title 1",
+          "price": "10.00"
+        }
+      ],
+      "tags": "tag1, tag2",
+      "unknown_field_1": "Value 1"
+    },
+    {
+      "id": 223456789,
+      "title": "Sample Product 2",
+      "body_html": "<strong>Great product!</strong>",
+      "vendor": "Vendor B",
+      "product_type": "Type B",
+      "created_at": "2024-08-02T00:00:00-00:00",
+      "handle": "sample-product-2",
+      "updated_at": "2024-08-02T00:00:00-00:00",
+      "published_at": "2024-08-02T00:00:00-00:00",
+      "variants": [
+        {
+          "id": 887654321,
+          "product_id": 223456789,
+          "title": "Default Title 2",
+          "price": "20.00"
+        }
+      ],
+      "tags": "tag3, tag4",
+      "unknown_field_2": "Value 2"
+    },
+    {
+      "id": 323456789,
+      "title": "Sample Product 3",
+      "body_html": "<strong>Awesome product!</strong>",
+      "vendor": "Vendor C",
+      "product_type": "Type C",
+      "created_at": "2024-08-03T00:00:00-00:00",
+      "handle": "sample-product-3",
+      "updated_at": "2024-08-03T00:00:00-00:00",
+      "published_at": "2024-08-03T00:00:00-00:00",
+      "variants": [
+        {
+          "id": 787654321,
+          "product_id": 323456789,
+          "title": "Default Title 3",
+          "price": "30.00"
+        }
+      ],
+      "tags": "tag5, tag6",
+      "unknown_field_3": "Value 3"
+    },
+    {
+      "id": 423456789,
+      "title": "Sample Product 4",
+      "body_html": "<strong>Amazing product!</strong>",
+      "vendor": "Vendor D",
+      "product_type": "Type D",
+      "created_at": "2024-08-04T00:00:00-00:00",
+      "handle": "sample-product-4",
+      "updated_at": "2024-08-04T00:00:00-00:00",
+      "published_at": "2024-08-04T00:00:00-00:00",
+      "variants": [
+        {
+          "id": 687654321,
+          "product_id": 423456789,
+          "title": "Default Title 4",
+          "price": "40.00"
+        }
+      ],
+      "tags": "tag7, tag8",
+      "unknown_field_4": "Value 4"
+    }
   ]
 }
