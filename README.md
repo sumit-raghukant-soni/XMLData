@@ -6,6 +6,7 @@ java 01
 ```
 
 >_Following is a Table_
+
 col1|col2
 -|-
 1|2
