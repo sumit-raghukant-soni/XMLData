@@ -5,7 +5,7 @@ javac 01.java
 java 01
 ```
 
-_This is a Table_
+>_Following is a Table_
 col1|col2
 -|-
 1|2
